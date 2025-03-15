@@ -4,6 +4,7 @@ public class Specsmodel {
 
 	int id;
 	String name;
+	String value;
 	public int getId() {
 		return id;
 	}
